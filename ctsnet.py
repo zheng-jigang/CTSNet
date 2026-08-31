@@ -519,5 +519,5 @@ if __name__ == "__main__":
     logits_train, feat_train = model(dummy_img, dummy_labels)
     print("-"*60)
     print(f"Train mode logits shape: {logits_train.shape}")
-
+    print("9")
     print("\n✅ Model forward pass test completed.")
