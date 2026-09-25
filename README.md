@@ -1,2 +1,0 @@
-# CTSNet
-CTSNet_code
